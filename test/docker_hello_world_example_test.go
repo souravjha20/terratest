@@ -2,6 +2,7 @@ package test
 
 import (
 	"testing"
+	"staging"
 
 	"github.com/gruntwork-io/terratest/modules/docker"
 	"github.com/stretchr/testify/assert"
